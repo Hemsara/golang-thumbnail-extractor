@@ -5,6 +5,7 @@ import (
 	"image/jpeg"
 	"os"
 	"path/filepath"
+
 	"strings"
 
 	"github.com/gen2brain/go-fitz"
